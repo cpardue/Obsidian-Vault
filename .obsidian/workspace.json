@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "04678c0d559b27f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cb665c1d248ec57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5169952f74939b43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes/Webapps/Burp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e0f8bb52a632818",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
+          },
+          {
+            "id": "7be21ab1383e0d1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes/AD DS/Initial Attack Vectors/Password cracking with Hashcat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b73d7c8b3440ae3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes/API Hacking/Table of Contents.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93848d9bdef36ce6",
+    "type": "split",
+    "children": [
+      {
+        "id": "715a364f93410ca0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be0a8fd0bccc049b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e058bd4e1bc738b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "grep",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f034658e97116cbf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "af19ca9d55d0e998",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fea984a74e74c8ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9ffbee99762690c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d05bd7604c0c8ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "General Notes/API Hacking/Table of Contents.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e96cf498ff143c67",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "General Notes/API Hacking/Table of Contents.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e7ef0f3689b6961",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3b314b9d920cfb23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "General Notes/API Hacking/Table of Contents.md"
+              }
+            }
+          },
+          {
+            "id": "6ea6f33bed94cf8e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "be0a8fd0bccc049b",
+  "lastOpenFiles": [
+    "General Notes/API Hacking/10. Combining Tools and Techniques/2.  Using data exposure with other vulns.md",
+    "General Notes/API Hacking/10. Combining Tools and Techniques/1. Leveraging Improper Assets Management with other vulns.md",
+    "General Notes/API Hacking/Table of Contents.md",
+    "General Notes/API Hacking/8. Injection Attacks/3.  Performing Injection Attacks.md",
+    "General Notes/API Hacking/8. Injection Attacks/1.  Process.md",
+    "General Notes/API Hacking/8. Injection Attacks/2.  Finding Targets.md",
+    "General Notes/API Hacking/7. Mass Assignment/2.  Finding Targets.md",
+    "General Notes/API Hacking/7. Mass Assignment/1.  Process.md",
+    "General Notes/API Hacking/6. Testing for Improper Assets Management/1.  Testing Process.md",
+    "General Notes/API Hacking/5. Exploiting Authorization/4.  BFLA.md",
+    "General Notes/API Hacking/5. Exploiting Authorization/1.  Process.md",
+    "General Notes/API Hacking/5. Exploiting Authorization/2.  Finding Targets.md",
+    "General Notes/API Hacking/5. Exploiting Authorization/3.  BOLA.md",
+    "General Notes/API Hacking/4. Authentication Attacks/3.  Attacking JWTs.md",
+    "General Notes/API Hacking/4. Authentication Attacks/2.  Token Analysis and Forgery.md",
+    "General Notes/API Hacking/4. Authentication Attacks/1.  Classic Authentication Attacks.md",
+    "General Notes/API Hacking/2. Endpoint Analysis/4.  Testing for Excessive Data Exposure.md",
+    "General Notes/API Hacking/2. Endpoint Analysis/3.  Interacting With an API.md",
+    "General Notes/API Hacking/2. Endpoint Analysis/2.  Setting Up Requests.md",
+    "General Notes/API Hacking/2. Endpoint Analysis/1.  The Process.md",
+    "General Notes/API Hacking/1. API Discovery/2.  Active Techniques.md",
+    "General Notes/API Hacking/1. API Discovery/1.  Passive Techniques.md",
+    "General Notes/API Hacking/10. Combining Tools and Techniques",
+    "General Notes/API Hacking/9. Rate Limit Testing",
+    "General Notes/API Hacking/8. Injection Attacks",
+    "General Notes/API Hacking/7. Mass Assignment",
+    "General Notes/API Hacking/6. Testing for Improper Assets Management",
+    "General Notes/API Hacking/5. Exploiting Authorization",
+    "General Notes/API Hacking/4. Authentication Attacks",
+    "General Notes/API Hacking/3. Vulnerability Scanning",
+    "General Notes/API Hacking/2. Endpoint Analysis",
+    "General Notes/Grep cheat sheet.md",
+    "General Notes/API Hacking/1. API Discovery",
+    "General Notes/AD DS/Initial Attack Vectors/LLMNR Poisoning Overview.md",
+    "Pentest Template Master/2. Enumeration/3. Active Directory/General Notes.md",
+    "Pentest Template Master/2. Enumeration/1. Web/General Notes.md",
+    "Pasted image 20230126154500.png",
+    "Pasted image 20230128072420.png"
+  ]
+}

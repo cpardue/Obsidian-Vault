@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "04678c0d559b27f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbeb4f2ae58091e6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Pentest Template Master/2. Enumeration/3. Active Directory/General Notes.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "93848d9bdef36ce6",
+    "type": "split",
+    "children": [
+      {
+        "id": "715a364f93410ca0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be0a8fd0bccc049b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e058bd4e1bc738b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f034658e97116cbf",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fea984a74e74c8ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9ffbee99762690c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d05bd7604c0c8ff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pentest Template Master/2. Enumeration/3. Active Directory/General Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e96cf498ff143c67",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pentest Template Master/2. Enumeration/3. Active Directory/General Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e7ef0f3689b6961",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3b314b9d920cfb23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pentest Template Master/2. Enumeration/3. Active Directory/General Notes.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "dbeb4f2ae58091e6",
+  "lastOpenFiles": [
+    "Pentest Template Master/2. Enumeration/9. SQL/General Notes.md",
+    "Pentest Template Master/2. Enumeration/4. SNMP/General Notes.md",
+    "Pentest Template Master/2. Enumeration/5. FTP/General Notes.md",
+    "Pentest Template Master/2. Enumeration/3. Active Directory/General Notes.md",
+    "Pentest Template Master/2. Enumeration/2. SMB/General Notes.md",
+    "Pentest Template Master/2. Enumeration/1. Web/General Notes.md",
+    "Pentest Template Master/1. Recon/OSINT Techniques.md",
+    "Pentest Template Master/1. Recon/General Notes.md",
+    "Pentest Template Master/2. Enumeration/1. Web/SQL Injection.md",
+    "Pentest Template Master/0. Pivoting & Tunneling.md"
+  ]
+}

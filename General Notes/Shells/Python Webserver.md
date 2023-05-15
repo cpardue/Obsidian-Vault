@@ -1,0 +1,3 @@
+On attacker machine, in the directory you want to make available...
+> $python3 -m http.server <port>
+Now everything inside that directory is available to pull from <attacker_ip>:<port> via a browser and/or GET requests. 
