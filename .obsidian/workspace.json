@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Notes/API Hacking/Table of Contents.md",
+                "file": "Template/blog_format.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Notes/API Hacking/Table of Contents.md",
+                "file": "Template/blog_format.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Notes/API Hacking/Table of Contents.md",
+                "file": "Template/blog_format.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Notes/API Hacking/Table of Contents.md"
+                "file": "Template/blog_format.md"
               }
             }
           },
@@ -197,11 +197,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be0a8fd0bccc049b",
+  "active": "b73d7c8b3440ae3a",
   "lastOpenFiles": [
+    "General Notes/API Hacking/Table of Contents.md",
     "General Notes/API Hacking/10. Combining Tools and Techniques/2.  Using data exposure with other vulns.md",
     "General Notes/API Hacking/10. Combining Tools and Techniques/1. Leveraging Improper Assets Management with other vulns.md",
-    "General Notes/API Hacking/Table of Contents.md",
     "General Notes/API Hacking/8. Injection Attacks/3.  Performing Injection Attacks.md",
     "General Notes/API Hacking/8. Injection Attacks/1.  Process.md",
     "General Notes/API Hacking/8. Injection Attacks/2.  Finding Targets.md",
