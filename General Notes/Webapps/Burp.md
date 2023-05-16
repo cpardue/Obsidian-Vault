@@ -6,7 +6,14 @@ Start burp
 Open firefox
 Goto Preferences, Settings, enter 127.0.0.1:8080 for the Proxy
 Uh use FoxyProxy extension instead
-Go to https://burp
+Enable proxy then add cert by...
+Go to https://burpsuite
+Click CA CERTIFICATE link
+Save As, OK
+Open the saved cacert.der
+In Firefox Settings, search for certificate
+View Certificates > Your Certificates > Import... > cacert.der
+Checkbox both Trusts, OK, OK. 
 
 10/44
 
