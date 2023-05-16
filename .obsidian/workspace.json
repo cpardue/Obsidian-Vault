@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Template/blog_format.md",
+                "file": "General Notes/API Hacking/Helpful Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/blog_format.md",
+                "file": "General Notes/API Hacking/Helpful Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/blog_format.md",
+                "file": "General Notes/API Hacking/Helpful Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/blog_format.md"
+                "file": "General Notes/API Hacking/Helpful Tools.md"
               }
             }
           },
@@ -199,6 +199,11 @@
   },
   "active": "b73d7c8b3440ae3a",
   "lastOpenFiles": [
+    "General Notes/AD DS/Initial Attack Vectors/Password cracking with Hashcat.md",
+    "General Notes/API Hacking/Helpful Tools.md",
+    "General Notes/AD DS/Initial Attack Vectors/LLMNR Poisoning Overview.md",
+    "General Notes/AD DS/Initial Attack Vectors/Capturing NTLMv2 Hashes with Responder.md",
+    "Template/blog_format.md",
     "General Notes/API Hacking/Table of Contents.md",
     "General Notes/API Hacking/10. Combining Tools and Techniques/2.  Using data exposure with other vulns.md",
     "General Notes/API Hacking/10. Combining Tools and Techniques/1. Leveraging Improper Assets Management with other vulns.md",
@@ -220,7 +225,6 @@
     "General Notes/API Hacking/2. Endpoint Analysis/2.  Setting Up Requests.md",
     "General Notes/API Hacking/2. Endpoint Analysis/1.  The Process.md",
     "General Notes/API Hacking/1. API Discovery/2.  Active Techniques.md",
-    "General Notes/API Hacking/1. API Discovery/1.  Passive Techniques.md",
     "General Notes/API Hacking/10. Combining Tools and Techniques",
     "General Notes/API Hacking/9. Rate Limit Testing",
     "General Notes/API Hacking/8. Injection Attacks",
@@ -230,11 +234,7 @@
     "General Notes/API Hacking/4. Authentication Attacks",
     "General Notes/API Hacking/3. Vulnerability Scanning",
     "General Notes/API Hacking/2. Endpoint Analysis",
-    "General Notes/Grep cheat sheet.md",
     "General Notes/API Hacking/1. API Discovery",
-    "General Notes/AD DS/Initial Attack Vectors/LLMNR Poisoning Overview.md",
-    "Pentest Template Master/2. Enumeration/3. Active Directory/General Notes.md",
-    "Pentest Template Master/2. Enumeration/1. Web/General Notes.md",
     "Pasted image 20230126154500.png",
     "Pasted image 20230128072420.png"
   ]
