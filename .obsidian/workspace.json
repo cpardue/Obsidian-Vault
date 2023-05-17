@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Notes/API Hacking/1. API Discovery/1.  Passive Techniques.md",
+                "file": "General Notes/API Hacking/1. API Discovery/2.  Active Techniques.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Notes/API Hacking/1. API Discovery/1.  Passive Techniques.md",
+                "file": "General Notes/API Hacking/1. API Discovery/2.  Active Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Notes/API Hacking/1. API Discovery/1.  Passive Techniques.md",
+                "file": "General Notes/API Hacking/1. API Discovery/2.  Active Techniques.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Notes/API Hacking/1. API Discovery/1.  Passive Techniques.md"
+                "file": "General Notes/API Hacking/1. API Discovery/2.  Active Techniques.md"
               }
             }
           },
@@ -199,8 +199,8 @@
   },
   "active": "b73d7c8b3440ae3a",
   "lastOpenFiles": [
-    "General Notes/API Hacking/1. API Discovery/0. Intro Info.md",
     "General Notes/API Hacking/1. API Discovery/1.  Passive Techniques.md",
+    "General Notes/API Hacking/1. API Discovery/0. Intro Info.md",
     "General Notes/API Hacking/Table of Contents.md",
     "General Notes/API Hacking/Helpful Labs.md",
     "General Notes/API Hacking/Helpful Tools.md",
