@@ -52,9 +52,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "52853f6d44698319",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.3"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -197,7 +207,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b73d7c8b3440ae3a",
+  "active": "52853f6d44698319",
   "lastOpenFiles": [
     "General Notes/API Hacking/1. API Discovery/1.  Passive Techniques.md",
     "General Notes/API Hacking/1. API Discovery/0. Intro Info.md",
