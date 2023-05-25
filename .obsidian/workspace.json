@@ -8,41 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5169952f74939b43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes/Webapps/Burp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e0f8bb52a632818",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
-          },
-          {
-            "id": "7be21ab1383e0d1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General Notes/AD DS/Initial Attack Vectors/Password cracking with Hashcat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b73d7c8b3440ae3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General Notes/API Hacking/1. API Discovery/00. Quick Start - Recon Run Book.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2eaa9c6ac931b583",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -52,19 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "52853f6d44698319",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.3"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,15 +175,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52853f6d44698319",
+  "active": "2eaa9c6ac931b583",
   "lastOpenFiles": [
+    "General Notes/API Hacking/1. API Discovery/00. Quick Start - Recon Run Book.md",
+    "General Notes/API Hacking/1. API Discovery/2.  Active Techniques.md",
+    "General Notes/AD DS/Initial Attack Vectors/Password cracking with Hashcat.md",
+    "General Notes/Webapps/Burp.md",
     "General Notes/API Hacking/1. API Discovery/1.  Passive Techniques.md",
     "General Notes/API Hacking/1. API Discovery/0. Intro Info.md",
     "General Notes/API Hacking/Table of Contents.md",
     "General Notes/API Hacking/Helpful Labs.md",
     "General Notes/API Hacking/Helpful Tools.md",
-    "General Notes/Webapps/Burp.md",
-    "General Notes/AD DS/Initial Attack Vectors/Password cracking with Hashcat.md",
     "General Notes/AD DS/Initial Attack Vectors/LLMNR Poisoning Overview.md",
     "General Notes/AD DS/Initial Attack Vectors/Capturing NTLMv2 Hashes with Responder.md",
     "Template/blog_format.md",
@@ -233,8 +203,6 @@
     "General Notes/API Hacking/5. Exploiting Authorization/3.  BOLA.md",
     "General Notes/API Hacking/4. Authentication Attacks/3.  Attacking JWTs.md",
     "General Notes/API Hacking/4. Authentication Attacks/2.  Token Analysis and Forgery.md",
-    "General Notes/API Hacking/4. Authentication Attacks/1.  Classic Authentication Attacks.md",
-    "General Notes/API Hacking/2. Endpoint Analysis/4.  Testing for Excessive Data Exposure.md",
     "General Notes/API Hacking/10. Combining Tools and Techniques",
     "General Notes/API Hacking/9. Rate Limit Testing",
     "General Notes/API Hacking/8. Injection Attacks",
