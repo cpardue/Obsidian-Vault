@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General Notes/API Hacking/2. Endpoint Analysis/1. Reverse Engineering an API.md",
+                "file": "General Notes/API Hacking/2. Endpoint Analysis/2. Using APIs and Excessive Data Exposure.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General Notes/API Hacking/2. Endpoint Analysis/1. Reverse Engineering an API.md",
+                "file": "General Notes/API Hacking/2. Endpoint Analysis/2. Using APIs and Excessive Data Exposure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General Notes/API Hacking/2. Endpoint Analysis/1. Reverse Engineering an API.md",
+                "file": "General Notes/API Hacking/2. Endpoint Analysis/2. Using APIs and Excessive Data Exposure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General Notes/API Hacking/2. Endpoint Analysis/1. Reverse Engineering an API.md"
+                "file": "General Notes/API Hacking/2. Endpoint Analysis/2. Using APIs and Excessive Data Exposure.md"
               }
             }
           },
@@ -164,11 +164,11 @@
   },
   "active": "b73d7c8b3440ae3a",
   "lastOpenFiles": [
+    "General Notes/API Hacking/2. Endpoint Analysis/1. Reverse Engineering an API.md",
     "General Notes/API Hacking/1. API Discovery/2.  Active Techniques.md",
     "General Notes/API Hacking/1. API Discovery/1.  Passive Techniques.md",
     "General Notes/API Hacking/1. API Discovery/0. Intro Info.md",
     "General Notes/API Hacking/1. API Discovery/00. Quick Start - Recon Run Book.md",
-    "General Notes/API Hacking/2. Endpoint Analysis/1. Reverse Engineering an API.md",
     "General Notes/API Hacking/2. Endpoint Analysis/2. Using APIs and Excessive Data Exposure.md",
     "General Notes/API Hacking/2. Endpoint Analysis/2.  Setting Up Requests.md",
     "General Notes/API Hacking/2. Endpoint Analysis/4.  Testing for Excessive Data Exposure.md",
