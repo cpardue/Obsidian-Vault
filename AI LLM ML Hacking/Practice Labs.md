@@ -1,0 +1,12 @@
+- https://gandalf.lakera.ai/: For practicing prompt injection and jailbreaks.
+- https://prompting.ai.immersivelabs.com/: Hands-on simulations focused on AI security.
+- https://promptairlines.com/: Unique CTF-style LLM hacking scenarios.
+- https://portswigger.net/web-security/llm-attacks: Emerging content on AI security labs.
+- https://prompting.ai.immersivelabs.com/: AI Immersive Labs
+- https://doublespeak.chat/#: AI Doublespeak
+- https://github.com/dhammon/ai-goat: AI Goat
+- https://play.secdim.com/game/ai: 
+- https://platform.dreadnode.io/crucible/dashboard: 
+- https://prompting.ai.immersivelabs.com/
+- https://github.com/WithSecureLabs/damn-vulnerable-llm-agent: Github LLM local vuln agent
+- **OpenAI API / HuggingFace**: Ideal for testing your own LLM-based apps.
